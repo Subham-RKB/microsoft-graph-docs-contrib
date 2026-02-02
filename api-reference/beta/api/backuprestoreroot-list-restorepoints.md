@@ -10,7 +10,7 @@ ms.date: 08/28/2024
 ---
 
 # List restorePoints
-
+something
 Namespace: microsoft.graph
 
 [!INCLUDE [beta-disclaimer](../../includes/beta-disclaimer.md)]
